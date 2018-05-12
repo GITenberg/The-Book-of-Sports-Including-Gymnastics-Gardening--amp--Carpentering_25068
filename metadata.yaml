@@ -1,0 +1,26 @@
+_repo: The-Book-of-Sports-Including-Gymnastics-Gardening--amp--Carpentering_25068
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martin, William
+    gutenberg_agent_id: '28383'
+    url: http://www.gutenberg.org/2009/agents/28383
+description: ''
+gutenberg_issued: '2008-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sports -- Juvenile literature'
+- !lcsh 'Amusements -- Juvenile literature'
+- !lcc 'GV'
+title: "The Book of Sports:\r\nContaining Out-door Sports, Amusements and Recreations,\
+  \ Including Gymnastics, Gardening & Carpentering"
+url: http://www.gutenberg.org/ebooks/25068
