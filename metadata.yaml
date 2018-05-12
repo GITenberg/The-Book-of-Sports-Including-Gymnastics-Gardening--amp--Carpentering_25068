@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '28383'
     url: http://www.gutenberg.org/2009/agents/28383
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25068#The-Book-of-Sports-Including-Gymnastics-Gardening--amp--Carpentering
 gutenberg_issued: '2008-04-14'
 gutenberg_type: Text
 identifiers:
